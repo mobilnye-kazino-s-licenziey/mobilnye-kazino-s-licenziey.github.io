@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: mobilnye-kazino-s-licenziey.github.io
+Sitemap: https://mobilnye-kazino-s-licenziey.github.io/sitemap.xml
